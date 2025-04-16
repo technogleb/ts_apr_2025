@@ -1,0 +1,14 @@
+pmdarima==2.0.4
+pandas==2.2.3
+matplotlib==3.9.2
+numpy==1.26.4
+statsmodels==0.14.4
+scipy==1.14.1
+scikit-learn==1.5.2
+isodate==0.7.2
+bokeh==3.3.4
+monthdelta
+jupyter
+tensorflow-macos; sys_platform == 'darwin'
+tensorflow; sys_platform == 'linux'
+keras
